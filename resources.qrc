@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/black.png</file>
+        <file>img/red.png</file>
+        <file>img/yellow.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>sound/clock_sound.mp3</file>
+        <file>sound/tic-tac.mp3</file>
+    </qresource>
+</RCC>
